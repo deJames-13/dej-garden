@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-home/","noteIcon":"🏠"}
+{"dg-publish":true,"permalink":"/garden-home/","tags":["gardenEntry"],"noteIcon":"🏠"}
 ---
 
 # Home
