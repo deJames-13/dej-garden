@@ -10,3 +10,9 @@
 > [!WARNING] This site is under development! 
 > 
 
+___
+## For Now
+___
+#### [[Crash Course/Crash Course\|From Crash Courses]]
+
+
