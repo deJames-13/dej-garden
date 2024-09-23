@@ -8,8 +8,8 @@
 4. [[./bad-words-checker\|Bad Words Checker]]
 5. [[./react-data-table-component\|React Data Table]]
 6. [[./ExcelJS\|ExcelJS]]
-7. 
-8. 
+7. express-paginate
+8. express-rate-limit
 9. 
 
 
