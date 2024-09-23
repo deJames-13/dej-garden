@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/course/3rd-year-2024-2025/1st-sem/system-administration-and-maintenance-1/installation/archlinux/","noteIcon":""}
 ---
 
+
+> [!NOTE] Use Installer
+> `arch-install`
+
 #### Step 1: Disk Partitioning
 
 **Partition using cfdisk**

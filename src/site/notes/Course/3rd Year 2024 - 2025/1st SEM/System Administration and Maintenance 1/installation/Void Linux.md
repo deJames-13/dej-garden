@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/course/3rd-year-2024-2025/1st-sem/system-administration-and-maintenance-1/installation/void-linux/","noteIcon":""}
 ---
 
+
+> [!NOTE] Use installer
+> `void-installer`
+
 ### Installation
 **Start by using bash.**
 ```
